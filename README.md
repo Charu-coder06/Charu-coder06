@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Charu Agrawal </h1>
 <h3 align="center">Senior BI Developer | Power BI Expert | Azure & Data Engineering Enthusiast</h3>
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Curious+mind.+Data+soul.+Always+learning,+always+building.+🚀)](https://git.io/typing-svg)
+
 ---
+
 
 🌟 **About Me**
 
