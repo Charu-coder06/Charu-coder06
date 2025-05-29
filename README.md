@@ -10,7 +10,7 @@
 
 I'm a **Senior BI Developer** with **4+ years of experience** in Data Analytics and Engineering. I specialize in building robust data pipelines, designing interactive Power BI dashboards, and integrating cloud-based solutions using **Azure** and **SQL**.
 
-With a strong foundation in **Python, Power BI, and Azure Databricks**, I deliver data-driven solutions that transform business needs into tangible outcomes. I'm also passionate about automating workflows using **Power Automate** and building low-code apps with **Power Apps**.
+With a strong foundation in **Python, SQL, Power BI, and Azure Databricks**, I deliver data-driven solutions that transform business needs into tangible outcomes. I'm also passionate about automating workflows using **Power Automate** and building low-code apps with **Power Apps**.
 
 ---
 
